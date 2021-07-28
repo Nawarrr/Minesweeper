@@ -11,6 +11,8 @@
     width: 40px;
     
 }
-.bomb{
-    background-color: red;
+
+
+.checked {
+    background-color: green ;
 }
